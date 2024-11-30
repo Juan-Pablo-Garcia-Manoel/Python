@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6329FB-7AC7-479E-A559-0ABFF6884960}|businessCard.pyproj|C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\src\\utils\\Config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D6329FB-7AC7-479E-A559-0ABFF6884960}|businessCard.pyproj|solutionrelative:src\\utils\\Config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6329FB-7AC7-479E-A559-0ABFF6884960}|businessCard.pyproj|C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D6329FB-7AC7-479E-A559-0ABFF6884960}|businessCard.pyproj|solutionrelative:app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6329FB-7AC7-479E-A559-0ABFF6884960}|businessCard.pyproj|C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\src\\services\\business_card_service.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D6329FB-7AC7-479E-A559-0ABFF6884960}|businessCard.pyproj|solutionrelative:src\\services\\business_card_service.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6329FB-7AC7-479E-A559-0ABFF6884960}|businessCard.pyproj|C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\requeriments.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D6329FB-7AC7-479E-A559-0ABFF6884960}|businessCard.pyproj|solutionrelative:requeriments.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "requeriments.txt",
+              "DocumentMoniker": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\requeriments.txt",
+              "RelativeDocumentMoniker": "requeriments.txt",
+              "ToolTip": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\requeriments.txt",
+              "RelativeToolTip": "requeriments.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-29T21:20:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "business_card_service.py",
+              "DocumentMoniker": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\src\\services\\business_card_service.py",
+              "RelativeDocumentMoniker": "src\\services\\business_card_service.py",
+              "ToolTip": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\src\\services\\business_card_service.py",
+              "RelativeToolTip": "src\\services\\business_card_service.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T21:12:52.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\app.py",
+              "RelativeDocumentMoniker": "app.py",
+              "ToolTip": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\app.py",
+              "RelativeToolTip": "app.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T21:12:26.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Config.py",
+              "DocumentMoniker": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\src\\utils\\Config.py",
+              "RelativeDocumentMoniker": "src\\utils\\Config.py",
+              "ToolTip": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\src\\utils\\Config.py",
+              "RelativeToolTip": "src\\utils\\Config.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T21:11:21.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

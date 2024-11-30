@@ -1,9 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juanp\\Desktop\\Docs\\",
+  "WorkspaceRootPath": "C:\\Users\\juanp\\Desktop\\Python\\Estudo\\Docs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanp\\Desktop\\Docs\\src\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanp\\Desktop\\Python\\Estudo\\Docs\\src\\services\\credit_card_service.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\credit_card_service.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanp\\Desktop\\Docs\\src\\services\\Config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanp\\Desktop\\Python\\Estudo\\Docs\\src\\utils\\Config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\Config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanp\\Desktop\\Python\\Estudo\\Docs\\src\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -19,12 +30,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "app.py",
-              "DocumentMoniker": "C:\\Users\\juanp\\Desktop\\Docs\\src\\app.py",
-              "RelativeDocumentMoniker": "src\\app.py",
-              "ToolTip": "C:\\Users\\juanp\\Desktop\\Docs\\src\\app.py",
-              "RelativeToolTip": "src\\app.py",
+              "Title": "credit_card_service.py",
+              "DocumentMoniker": "C:\\Users\\juanp\\Desktop\\Python\\Estudo\\Docs\\src\\services\\credit_card_service.py",
+              "RelativeDocumentMoniker": "src\\services\\credit_card_service.py",
+              "ToolTip": "C:\\Users\\juanp\\Desktop\\Python\\Estudo\\Docs\\src\\services\\credit_card_service.py",
+              "RelativeToolTip": "src\\services\\credit_card_service.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T23:07:16.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Config.py",
+              "DocumentMoniker": "C:\\Users\\juanp\\Desktop\\Python\\Estudo\\Docs\\src\\utils\\Config.py",
+              "RelativeDocumentMoniker": "src\\utils\\Config.py",
+              "ToolTip": "C:\\Users\\juanp\\Desktop\\Python\\Estudo\\Docs\\src\\utils\\Config.py",
+              "RelativeToolTip": "src\\utils\\Config.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T23:07:13.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.py",
+              "DocumentMoniker": "C:\\Users\\juanp\\Desktop\\Docs\\src\\services\\Config.py",
+              "RelativeDocumentMoniker": "..\\..\\..\\Docs\\src\\services\\Config.py",
+              "ToolTip": "C:\\Users\\juanp\\Desktop\\Docs\\src\\services\\Config.py",
+              "RelativeToolTip": "..\\..\\..\\Docs\\src\\services\\Config.py",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T10:16:44.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\juanp\\Desktop\\Python\\Estudo\\Docs\\src\\app.py",
+              "RelativeDocumentMoniker": "src\\app.py",
+              "ToolTip": "C:\\Users\\juanp\\Desktop\\Python\\Estudo\\Docs\\src\\app.py",
+              "RelativeToolTip": "src\\app.py",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-11-29T10:12:06.869Z",
               "EditorCaption": ""

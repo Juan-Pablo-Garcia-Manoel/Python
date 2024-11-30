@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6329FB-7AC7-479E-A559-0ABFF6884960}|businessCard.pyproj|C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\businessCard.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D6329FB-7AC7-479E-A559-0ABFF6884960}|businessCard.pyproj|solutionrelative:businessCard.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "businessCard.py",
+              "DocumentMoniker": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\businessCard.py",
+              "RelativeDocumentMoniker": "businessCard.py",
+              "ToolTip": "C:\\Users\\juanp\\Desktop\\businessCard\\businessCard\\businessCard.py",
+              "RelativeToolTip": "businessCard.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T21:04:31.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

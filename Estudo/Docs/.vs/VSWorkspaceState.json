@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\services"
+    "\\src\\services",
+    "\\src\\utils"
   ],
-  "SelectedNode": "\\src\\app.py",
+  "SelectedNode": "\\src\\services\\credit_card_service.py",
   "PreviewInSolutionExplorer": false
 }
